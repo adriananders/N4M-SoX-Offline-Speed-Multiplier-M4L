@@ -1,0 +1,16 @@
+{
+  "name": "sox_offline_speed_multiplier",
+  "version": "1.0.0",
+  "main": "sox-offline-speed-multiplier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sox-async": "^1.0.6",
+    "sox-bin": "^1.0.2"
+  }
+}
